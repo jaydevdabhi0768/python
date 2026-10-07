@@ -1,0 +1,8 @@
+places=("bhavnagar","baroda","rajkot","ahemdabad","surat")
+box=(100,True,'car',3.14)
+print(places)
+print(places[0])
+print(places[1:4])
+print(places[2:])
+print(box)
+print('good byy')
